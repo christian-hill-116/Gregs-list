@@ -65,6 +65,10 @@ color: black;
    width: 200px;
 }
 
+#search{
+    height: 25px;
+}
+
 #button{
     position: relative;
     vertical-align: middle;
