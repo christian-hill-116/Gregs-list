@@ -41,6 +41,7 @@ margin-left: 20px;
 
 #search{
 width: 33%;
+height: 25px;
 }
 
 #num{
@@ -63,10 +64,6 @@ color: black;
 
 #mid{
    width: 200px;
-}
-
-#search{
-    height: 25px;
 }
 
 #button{
